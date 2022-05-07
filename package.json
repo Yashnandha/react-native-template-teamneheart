@@ -20,5 +20,10 @@
     "React-navigation",
     "Redux",
     "Template React Native"
-  ]
+  ],
+  "publisher": "Yash Nandha",
+  "maintainers": [
+    "Yash Nandha"
+  ],
+  "homepage": "https://github.com/teamneheart/react-native-template-teamneheart.git"
 }
