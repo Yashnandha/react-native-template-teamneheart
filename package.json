@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-teamneheart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Template With Redux and navigation setup",
   "main": "template.config.js",
   "scripts": {
